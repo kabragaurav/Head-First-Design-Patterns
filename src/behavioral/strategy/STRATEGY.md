@@ -15,4 +15,4 @@ implementation for these methods. They can skip fly() or quack() if not applicab
 We know that fly() and quack() methods differ duck to duck. 
 So separate them out in their own classes (see image). <br/>
 The duck can now delegate flying and quacking to these classes which can be set using setters.
-![Strategy Pattern](img/Head%20First%20Design%20Pattern.png "Strategy Pattern")
+![Strategy Pattern](img/Strategy%20Design%20Pattern.png "Strategy Pattern")

@@ -9,4 +9,4 @@ Advantages
 - Reduces unnecessary load on server and network by not adapting pull based mechanism
 - O in SOLID pattern is achieved (loose coupling) since Publisher's code is unmodified even as scale of subscribers increases
 
-![Observer Pattern](img/Head%20First%20Design%20Pattern%20-%20Observer%20Design%20Pattern.png "Observer Pattern")
+![Observer Pattern](img/Observer%20Design%20Pattern.png "Observer Pattern")

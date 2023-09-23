@@ -1,0 +1,3 @@
+Concerned with collaboration and
+assignment of responsibilities
+between objects
