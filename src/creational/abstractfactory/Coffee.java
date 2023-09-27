@@ -2,9 +2,9 @@ package creational.abstractfactory;
 
 /**
  * @author gaurav kabra
- * @since 25/Sep/2023
+ * @since 27/Sep/2023
  **/
 
-public interface ThinCrustPizza extends Pizza {
+public interface Coffee {
 
 }

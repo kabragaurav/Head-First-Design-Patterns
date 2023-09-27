@@ -1,4 +1,13 @@
 Abstract Factory Design Pattern
-- Create objects relate to each other. E.g. Victorian furniture style sofa, chain and table
-- Product and Factory both implement abstract interfaces. In short, unlike Factory Pattern, now many factories are there
-- S, O, D of SOLID is achieved
+- Factory pattern is used when products are all different
+But if products can be grouped within themselves,
+use abstract factory pattern then
+- In factory pattern, only one factory is there. In abstract pattern, 
+more than one factories can be there
+- S, O of SOLID are achieved
+
+
+
+
+![Abstract Factory Pattern](img/Abstract%20Design%20Pattern.png "Abstract Factory Pattern")
+
